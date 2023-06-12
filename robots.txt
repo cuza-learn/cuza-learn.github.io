@@ -1,4 +1,4 @@
 Sitemap: https://cuza-learn.github.io/sitemap.xml
 
-User-agent: Googlebot
+User-agent: *
 Disallow: /files/
